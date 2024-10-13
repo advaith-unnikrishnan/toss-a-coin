@@ -2,7 +2,8 @@
   "$schema": "https://www.raycast.com/schemas/extension.json",
   "name": "toss-a-coin",
   "title": "Toss a Coin",
-  "description": "toss a coin in the raycast menu bar",
+  "description": "toss a coin from the raycast command bar",
+  "mode": "no-view",
   "icon": "extension-icon.png",
   "author": "advaith_u",
   "categories": [
