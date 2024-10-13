@@ -9,4 +9,4 @@ A simple Raycast extension that tosses a coin and returns "Heads" or "Tails".
 3. Press Enter
 4. The result (Heads or Tails) will be displayed in a heads-up display
 
-Enjoy your virtual coin tossing!
+Icon created using (Raycast Icon Maker)[https://ray.so/icon?q=]
